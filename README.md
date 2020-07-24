@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Talk is easy, show me the code
+
+[![186526 github stats](https://github-readme-stats.vercel.app/api?username=186526&hide_border=true)](https://github.com/186526)
+### A developer who develop with love & bug
